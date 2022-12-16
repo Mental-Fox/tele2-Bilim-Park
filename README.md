@@ -1,2 +1,2 @@
 # tele2-Bilim-Park
-course Bilim_Park 2022
+course Bilim_Park
